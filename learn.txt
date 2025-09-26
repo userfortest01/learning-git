@@ -1,2 +1,14 @@
+# ADICIONAR
+git add [arquivo1] [arquivo2]
+git add .
+
 # COMMITAR
-git commit -m Mensagem
+git commit -m ["Mensagem"]
+
+# PUSH
+git push
+
+# BRANCHES
+git branch - Para ver as branchs
+git checkout [branch] - Para trocar de branch
+git branch -D [branch] - Remover a branch localmente
