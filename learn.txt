@@ -1,17 +1,20 @@
-# STATUS
+# INFORMAÇÕES -> STATUS
 git status - Ver o status (commits que faltam, pushs, branch tual, etc)
 
-# ADICIONAR
+# HISTÓRICO -> LOG
+git log - Exibe o histórico das modificações
+
+# ADICIONAR -> ADD
 git add [arquivo1] [arquivo2] - Para adicionar apenas arquivos especificos
 git add . - Para adicionar todos os arquivos modificados
 
-# COMMITAR
+# COMMITAR -> COMMIT
 git commit -m ["Mensagem"] - Commit e a mensagem
 
-# PUSH
+# ENVIO -> PUSH
 git push - Envia as modificações para o GitHub
 
-# BRANCHES
+# RAMIFICAÇÕES -> BRANCHES
 git branch - Mostra as branches
 git checkout [branch] - Para trocar de branch
 git branch -D [branch] - Remover a branch localmente
